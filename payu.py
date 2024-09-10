@@ -31,8 +31,8 @@ class Payu:
 #		os.system('clear')
 		print("""
 		;;;;;;;;;;;;;;;;;;;;;;;;
-		; SMS Gratis PayuTerus ;
-		;      - noobie -      ;
+		; SMS Gratis ror ;
+		;      - ABIZAR -      ;
 		;;;;;;;;;;;;;;;;;;;;;;;;
 		""")
 		no=input('[?] Nomor Target: ')
