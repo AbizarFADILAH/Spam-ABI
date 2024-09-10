@@ -16,10 +16,6 @@ class Main:
 NOTE: This tool's only work for Indonesia number phone.
 
 1. SMS Gratis
-2. OTP Matahari
-3. OTP Hallodok
-4. OTP Olx.co.id
-5. OTP Sociolla.com
 """)
 		pilih=int(input('noobie/> '))
 		if pilih == 1:
